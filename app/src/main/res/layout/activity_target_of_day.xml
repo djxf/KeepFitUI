@@ -41,7 +41,6 @@
             android:id="@+id/title1"
             android:layout_width="match_parent"
             android:layout_height="45dp"
-            android:layout_below="@+id/top"
             android:background="#f40"
             android:gravity="center"
             android:padding="4dp"

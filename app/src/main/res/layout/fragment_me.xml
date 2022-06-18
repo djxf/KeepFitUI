@@ -261,6 +261,40 @@
                     </LinearLayout>
                 </LinearLayout>
                 <!--record-->
+                <LinearLayout
+                    android:id="@id/me_item_reord"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp">
+
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:src="@drawable/icon_train_unpressed" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:padding="10dp">
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="BIM查看"
+                            android:textSize="14sp" />
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/ic_common_right_arrow" />
+                    </LinearLayout>
+                </LinearLayout>
             </LinearLayout>
             <!--comment/record-->
             <!--exit-->

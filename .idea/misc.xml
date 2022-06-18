@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38070175438596493" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable/bg_edit_text_manage.xml" value="0.38070175438596493" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable/btn_red_bg.xml" value="0.4451282051282051" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable/button_index_selector.xml" value="0.38070175438596493" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable/edit_text_round_bg_focused.xml" value="0.2777777777777778" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable/edit_text_round_bg_normal.xml" value="0.38070175438596493" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38070175438596493" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable/spinner_bg.xml" value="0.38070175438596493" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/drawable/toast_bg.xml" value="0.38070175438596493" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/about_layout.xml" value="0.35482456140350876" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/action_bar_layout.xml" value="0.3671052631578947" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_add_buddy.xml" value="0.3671052631578947" />
@@ -31,7 +36,7 @@
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_news_detail.xml" value="0.4359375" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_normal_list.xml" value="0.4359375" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_ready_go.xml" value="0.3671052631578947" />
-        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_register.xml" value="0.4359375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_register.xml" value="0.33" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_running.xml" value="0.3671052631578947" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_splash.xml" value="0.4359375" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/activity_target_of_day.xml" value="0.3671052631578947" />
@@ -75,7 +80,7 @@
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/frag_message.xml" value="0.3671052631578947" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/frag_search.xml" value="0.3671052631578947" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/fragment_found.xml" value="0.4359375" />
-        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/fragment_me.xml" value="0.4359375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/fragment_me.xml" value="0.33" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/fragment_train.xml" value="0.33" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/fragment_train_backup.xml" value="0.33" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/KeepFitUI/app/src/main/res/layout/func_contacts_item.xml" value="0.3671052631578947" />
