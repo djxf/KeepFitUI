@@ -7,7 +7,7 @@
     android:fitsSystemWindows="true"
     android:orientation="vertical">
 
-    <include layout="@layout/title_custom"
+    <include layout="@layout/title_custom"/>
     <ScrollView
         android:layout_width="fill_parent"
         android:layout_height="0dip"
@@ -184,7 +184,7 @@
                     android:textColor="@color/fuxk_base_color_gray_black" />
 
                 <EditText
-                    android:id="@+id/reg_et_height"
+                    android:id="@+id/et_height"
                     style="@style/Fuxk_Base_Content_28_Style"
                     android:layout_width="fill_parent"
                     android:layout_height="@dimen/dd_dimen_90px"
@@ -217,7 +217,7 @@
                     android:textColor="@color/fuxk_base_color_gray_black" />
 
                 <EditText
-                    android:id="@+id/reg_et_weight"
+                    android:id="@+id/et_weight"
                     style="@style/Fuxk_Base_Content_28_Style"
                     android:layout_width="fill_parent"
                     android:layout_height="@dimen/dd_dimen_90px"
@@ -235,7 +235,7 @@
     </ScrollView>
 
     <Button
-        android:id="@+id/reg_btn_register"
+        android:id="@+id/btn_register"
         android:layout_width="fill_parent"
         android:layout_height="38dp"
         android:layout_marginBottom="@dimen/login_comfirm_button_margin_top"
