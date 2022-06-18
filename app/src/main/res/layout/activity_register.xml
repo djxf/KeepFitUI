@@ -7,7 +7,7 @@
     android:fitsSystemWindows="true"
     android:orientation="vertical">
 
-    <include layout="@layout/title_custom"
+    <include layout="@layout/title_custom"/>
     <ScrollView
         android:layout_width="fill_parent"
         android:layout_height="0dip"

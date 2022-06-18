@@ -99,7 +99,7 @@
                 android:id="@+id/iv_mile_sub"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/target_sub_selector" />
+                 />
 
             <ImageView
                 android:id="@+id/iv_mile_plus"
@@ -107,7 +107,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBottom="@+id/iv_mile_sub"
                 android:layout_toRightOf="@+id/iv_mile_sub"
-                android:src="@drawable/target_plus_selector" />
+                 />
 
         </RelativeLayout>
 
@@ -189,7 +189,7 @@
                 android:id="@+id/iv_duration_sub"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/target_sub_selector" />
+                 />
 
             <ImageView
                 android:id="@+id/iv_duration_plus"
@@ -197,7 +197,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBottom="@+id/iv_duration_sub"
                 android:layout_toRightOf="@+id/iv_duration_sub"
-                android:src="@drawable/target_plus_selector" />
+                 />
 
         </RelativeLayout>
 
@@ -234,7 +234,7 @@
             android:layout_alignParentBottom="true"
             android:layout_marginBottom="16dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/target_btnok_selector"
+
             android:gravity="center"
             android:text="确定"
             android:textColor="#969696"
